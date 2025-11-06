@@ -20,7 +20,7 @@
 
 ```bash
 # 方法1：使用 curl 直接安装
-curl -fsSL https://github.com/Bacon-123/goenv-In/main/goenv-installer.sh | sudo bash
+curl -fsSL https://github.com/Bacon-123/goenv-In/releases/download/main/goenv-installer.sh | sudo bash
 
 # 方法2：下载脚本后安装
 wget https://github.com/Bacon-123/goenv-In/main/goenv-installer.sh
@@ -157,7 +157,7 @@ A: 目前主要支持 x86_64，ARM 支持正在开发中
 
 - 项目地址：https://github.com/Bacon-123/goenv-In
 - 问题反馈：https://github.com/Bacon-123/goenv-In/issues
-- 作者：MiniMax Agent
+- 作者：LuckyBacon
 
 ## ⭐ 支持
 
